@@ -1,0 +1,44 @@
+CACHE MANIFEST
+#35
+CACHE:
+images/main.png
+images/ebl.png
+images/logo.png
+images/navlinkright.png
+images/navright.png
+images/navlinkleft.png
+images/navleft.png
+images/arrow.png
+images/checkbox.png
+images/navbutton.png
+images/navbuttonred.png
+images/sw-alpha.png
+images/sw-button-cancel.png
+images/sw-button-done.png
+images/sw-header.png
+images/sw-slot-border.png
+images/wireless-green-icon.png
+images/wireless-icon.png
+images/wireless-red-icon.png
+images/refresh.png
+
+generatedImages/jan_overview_ipad_cached.png
+generatedImages/jan_overview_iphone_cached.png
+
+index.jsp
+index.html
+
+css/style.css
+css/spinningwheel.css
+
+js/functions.js
+js/spinningwheel.js
+js/util.js
+js/main.js
+js/cache.js
+
+FALLBACK:
+generatedImages/jan_overview_ipad.png generatedImages/jan_overview_ipad_cached.png
+generatedImages/jan_overview_iphone.png generatedImages/jan_overview_iphone_cached.png
+NETWORK:
+*

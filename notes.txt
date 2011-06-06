@@ -1,0 +1,1 @@
+http://chart.apis.google.com/chart?chg=10,10,1,5&chxt=x,y,x&chxl=0:|Jan|July|Jan|July|1:|0|1,000|2,000|3,000|4,000|5,000|6,000|7,000|2:|2010||2011|&cht=lxy&chs=250x250&chd=t:0,20,40|10,20,30,40,50,60,70,80|-1|5,10,20,30,80&chco=00FF00,FF0000&chtt=Grafiek Electriciteit&chdl=maandverbruik|Referentie&chdlp=bv
